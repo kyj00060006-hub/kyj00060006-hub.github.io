@@ -9,4 +9,4 @@ Charpdash is my goodfriend and his birthday is 3.19 tommorrow, let's celebrate i
 [Here is Charpdash's webisite.](https://rare-gold-sun.github.io)
 ![And his photo](Charpdash.jpg)
 
-[My Profile](./Profile/s) 
+[My Profile](./Profile/) 
